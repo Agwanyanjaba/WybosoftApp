@@ -41,7 +41,7 @@ public class SwaggerConfig {
                 .title("Accout API")
                 .description("Account API Doc")
                 .version("1.0")
-                .contact(new Contact("Ramesh Fadatare", "www.javaguides.net", "ramesh24fadatare@gmail.com"))
+                .contact(new Contact("Agwanyanjaba", "www.wybosoft.com", "wybosoft@gmail.com"))
                 .license("License of API Service")
                 .licenseUrl("https://bonke.code.co")
                 .termsOfServiceUrl("Terms & Conditions https://bonke.app.co/terms-of-service")
